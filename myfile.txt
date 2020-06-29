@@ -1,0 +1,5 @@
+new line s is a test file
+first line 
+second one 
+third one
+new line amend
