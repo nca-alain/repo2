@@ -1,2 +1,2 @@
-for i in range (1, 15):
+for i in range (1, 11):
 	print('hello world....' +str(i))
